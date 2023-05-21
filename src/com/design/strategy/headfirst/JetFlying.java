@@ -1,4 +1,4 @@
-package com.design.strategy.domain;
+package com.design.strategy.headfirst;
 
 public class JetFlying implements IFlyBehaviour{
     @Override

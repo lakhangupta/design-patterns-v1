@@ -1,9 +1,9 @@
-package com.design.strategy.client;
+package com.design.strategy.clients;
 
-import com.design.strategy.domain.Duck;
-import com.design.strategy.domain.JetFlying;
-import com.design.strategy.domain.SimpleDisplay;
-import com.design.strategy.domain.SimpleQuack;
+import com.design.strategy.headfirst.Duck;
+import com.design.strategy.headfirst.JetFlying;
+import com.design.strategy.headfirst.SimpleDisplay;
+import com.design.strategy.headfirst.SimpleQuack;
 
 public class StrategyRunner {
 

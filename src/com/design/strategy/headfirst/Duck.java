@@ -1,4 +1,4 @@
-package com.design.strategy.domain;
+package com.design.strategy.headfirst;
 
 /* A duck class which encapsulates multiple behaviours
     and used in client class to choose which behaviour should be used.
